@@ -1,4 +1,4 @@
-# Computer Graphics CSC317 _Winter 2021_
+# Computer Graphics _Winter 2021_
 
 Homework Page:
 https://github.com/karansher/computer-graphics-csc317.git
